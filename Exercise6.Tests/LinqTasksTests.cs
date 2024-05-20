@@ -16,7 +16,6 @@ namespace Exercise6.Tests
             var empsCol = new List<Emp>();
             var deptsCol = new List<Dept>();
 
-
             #region Load depts
 
             var d1 = new Dept
